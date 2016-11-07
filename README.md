@@ -9,3 +9,5 @@ Week 7 - 7th November
 ---------------------
 
 - [Version 02](http://jordyquench.github.io/brief-history-of-type/john-baskerville-2.html)
+
+- [Version 03](http://jordyquench.github.io/brief-history-of-type/john-baskerville-3.html)
