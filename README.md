@@ -8,4 +8,4 @@ Week 6 - 31st October
 Week 7 - 7th November
 ---------------------
 
-- [Version 02](http://jordyquench.github.io/brief-history-of-type/john-baskerville.2.html)
+- [Version 02](http://jordyquench.github.io/brief-history-of-type/john-baskerville-2.html)
