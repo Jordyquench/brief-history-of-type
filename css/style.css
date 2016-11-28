@@ -1,0 +1,190 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-size: 100%;
+	line-height: 1em;
+}
+
+body{
+	width: 75%;
+	max-height: 100px;
+	font-family: 'Roboto', sans-serif;
+	margin: auto;
+	line-height: 1.8em;
+	background: #F7F7F7;
+}
+
+/*nav*/
+
+nav {
+
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333; 
+    padding: 1em 0;
+    margin-bottom: 4em;
+}
+
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav ul li {
+
+    display: inline;
+    margin: 20px;
+
+}
+
+a {
+	color: #59757F;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red; 
+	border-bottom: 1px dotted;
+} 
+
+/* Typography */
+
+h1, h2, h3 {
+	font-height: normal;
+	text-align: center;
+	color: #59757F;
+	
+
+}
+
+p, li{
+	margin-bottom: 2em;
+	line-height: 1.5em;
+
+}
+
+h1{
+	font-size: 4em;
+	line-height: 1.5em;
+
+}
+
+h2{
+	font-size: 1.5em;
+	margin-bottom: 1em;
+	color: #59757F;
+	font-style: italic;
+}
+
+/*end typography */
+
+/* The man */
+
+#top p{
+	line-height: 1.5em;
+	width: 75%;
+	margin: auto;
+	padding-top: 2em;
+
+
+
+}
+
+#top nav{
+	line-height: 1.5em;
+	width: 75%;
+	margin: auto;
+	text-align: auto;
+
+}
+
+
+.container{
+	line-height: 1.5em;
+	width: 75%;
+	margin: auto;
+	text-align: left;
+
+}
+
+#the-man img{
+	margin-bottom: 1em; 
+	display:block;
+	margin: 1em auto;
+	padding: o;
+	max-width: 100%;
+
+}
+
+blockquote{
+	padding: 1em 0 2em 0;
+	font-size: 1.75em;
+	line-height: 1.4em;
+	margin: 0;
+
+}
+
+blockquote cite{
+	font-size: .75em;
+}
+
+blockquote p{
+	color: #474747;
+	text-indent: -.35em;
+}
+
+
+
+.anchor{
+	text-transform: uppercase;
+	font-size: .75em;
+}
+
+.leader{
+	text-transform: uppercase;
+}
+
+/*The Typeface*/ 
+
+#the-typeface img{
+	margin-bottom: 1em; 
+	display:block;
+	margin: 1em auto;
+	padding: o;
+	max-width: 100%;
+
+}
+
+table{
+	margin-bottom: 1em; 
+	display:block;
+	margin: 1em auto;
+	padding: o;
+	max-width: 100%;
+
+}
+
+/*Mrs Eaves */
+
+#Mr-Eaves img{
+	margin-bottom: 1em; 
+	display:block;
+	margin: 1em auto;
+	padding: o;
+	max-width: 100%;
+
+}
+
+footer{
+	margin-bottom: 1em; 
+	display:block;
+	margin: 1em auto;
+	padding: o;
+	width: 75%;
+	line-height: 1em;
+
+}
+
+
+
