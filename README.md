@@ -19,3 +19,7 @@ Week 8 - 14th November
 
 - [Version 05](http://jordyquench.github.io/brief-history-of-type/john-baskerville-5.html)
 
+Week 8 - 14th November
+----------------------
+
+- [Version 07](http://jordyquench.github.io/brief-history-of-type/john-baskerville-7.html)
