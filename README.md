@@ -23,3 +23,8 @@ Week 10 - 28th November
 ----------------------
 
 - [Version 07](http://jordyquench.github.io/brief-history-of-type/john-baskerville-7.html)
+
+Week 11 - 5th December
+-----------------------
+
+- [Version 08](http://jordyquench.github.io/brief-history-of-type/john-baskerville-8.html)
