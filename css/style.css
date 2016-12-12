@@ -157,12 +157,42 @@ blockquote p{
 
 }
 
+/*table*/
+
+
 table{
-	margin-bottom: 1em; 
-	display:block;
-	margin: 1em auto;
-	padding: o;
-	max-width: 100%;
+	margin: auto;
+	width: 100%;
+	display: table;
+	border-collapse: 
+	border-spacing: 2px;
+
+
+
+}
+
+caption{
+	margin-bottom: 1.5em;
+	text-transform: uppercase;
+}
+
+th{
+	color: #fff;
+	text-transform: uppercase;
+	background: #59757F;
+	font-weight: normal;
+	text-align: left;
+
+}
+
+
+th, td{
+	padding: .6em;
+}
+
+table, td{
+	background: rgb(0, 0, 0, .1);
+	border: 1px solid #fff;
 
 }
 
@@ -185,6 +215,38 @@ footer{
 	width: 75%;
 	line-height: 1em;
 
+}
+
+
+/* Media query*/
+
+@media (max-width: 50em) {
+
+	body{
+		background-color: aqua;
+		width: 100%;
+		font-size: 115%;
+		margin: auto;
+	}
+
+	article {
+		width: 90%;
+		padding: 0.5em;
+	}
+
+}
+
+
+/* smartphone */
+
+@media (max-width: 35em) {
+
+	body{
+		background-color: red;
+		width: 100%;
+		font-size: 115%;
+		margin: auto;
+	}
 }
 
 
