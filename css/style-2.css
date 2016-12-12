@@ -137,12 +137,14 @@ blockquote p{
 #version-2 p+p {
 	font-height: normal;
 	font-size: .8em;
+	margin-bottom: -.15em;
 }
 
 
 #version-2 p+p+p {
 	font-height: normal;
 	font-size: .8em;
+	text-indent: 1.5em;
 }
 
 p, li{
@@ -204,16 +206,37 @@ hr{
 	color: #ff0266;
 }
 
+/*------ version-------*/
 
 
 .version3 {
 		font-weight: normal;
-		font-family: 'Arvo', serif;
+		font-family: 'Open Sans', sans-serif; 
 }
 
 
 .version3 h1, h2, blockquote {	font-family: 'Arvo', serif;}
 
 
+
+.version3 p+p+p {
+	font-height: normal;
+	font-size: .8em;
+}
+
+
+
+
+
+.version3 p blockquote {
+	font-height: normal;
+	font-size: 1em;
+
+}
+
+.version3 p+p  {
+	font-height: normal;
+	font-size: .8em;
+}
 
 
